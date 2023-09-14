@@ -1,6 +1,6 @@
 # AS608: Sensor de Huellas Dactilares para Autenticación Biométrica
 
-![51pZ0PMtuLL _SY445_SX342_QL70_ML2_](https://github.com/chrisroman20/chrisroman20.github.io/assets/80359391/8acb493e-b4a1-4632-b934-0ecee12fe1f0) 
+![51pZ0PMtuLL _SY445_SX342_QL70_ML2_](https://github.com/chrisroman20/chrisroman20.github.io/assets/80359391/8acb493e-b4a1-4632-b934-0ecee12fe1f0)
 
 ---
 
